@@ -16,10 +16,10 @@ public class Minion {
     private String skill;
     private String type;
 
-    // ОБЯЗАТЕЛЬНО public
+    
     public Minion() {}
 
-    // setters
+
     public void setName(String name) {
         this.name = name;
     }
@@ -40,7 +40,7 @@ public class Minion {
         this.type = type;
     }
 
-    // getters (нужны для JSON)
+
     public Long getId() {
         return id;
     }
