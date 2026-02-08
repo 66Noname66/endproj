@@ -1,5 +1,3 @@
-
-```md
 # Minions API (Spring Boot)
 
 Educational REST API built with **Spring Boot + JPA + PostgreSQL**  
@@ -28,13 +26,15 @@ This project demonstrates:
 
 
 
-##  Project Structure
 
-```
+
 ## Screenshots
 <img width="729" height="1102" alt="Снимок экрана 2026-02-08 205235" src="https://github.com/user-attachments/assets/e5e22fa5-2f20-47f4-bd49-f4cabc9a3604" />
 <img width="1527" height="1260" alt="Снимок экрана 2026-02-08 205338" src="https://github.com/user-attachments/assets/654ef245-c184-4bd9-ac31-a1e1f6269c2d" />
 <img width="1699" height="1313" alt="Снимок экрана 2026-02-08 205458" src="https://github.com/user-attachments/assets/3550fe75-7950-4e1c-96cd-0da219670c3e" />
+
+##  Project Structure
+
 
 src/main/java/org/example/minionsapi
 ├── controller        # REST controllers
@@ -46,7 +46,7 @@ src/main/java/org/example/minionsapi
 ├── utils             # Validators
 └── MinionsApplication.java
 
-````
+
 
 ---
 
@@ -70,14 +70,14 @@ src/main/java/org/example/minionsapi
 
 ## ️ application.properties
 
-```properties
+properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/minions
 spring.datasource.username=postgres
 spring.datasource.password=1234
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
-````
+
 
 
 ## Run Application
@@ -87,9 +87,9 @@ spring.jpa.show-sql=true
 3. Run `MinionsApplication`
 4. Server will start at:
 
-```
+
 http://localhost:8080
-```
+
 
 
 ##  REST API
