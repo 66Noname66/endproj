@@ -24,10 +24,6 @@ This project demonstrates:
 - Hibernate
 
 ---
- ## Screenshots
-<img width="729" height="1102" alt="Снимок экрана 2026-02-08 205235" src="https://github.com/user-attachments/assets/e5e22fa5-2f20-47f4-bd49-f4cabc9a3604" />
-<img width="1527" height="1260" alt="Снимок экрана 2026-02-08 205338" src="https://github.com/user-attachments/assets/654ef245-c184-4bd9-ac31-a1e1f6269c2d" />
-<img width="1699" height="1313" alt="Снимок экрана 2026-02-08 205458" src="https://github.com/user-attachments/assets/3550fe75-7950-4e1c-96cd-0da219670c3e" />
 
 
 
@@ -35,6 +31,10 @@ This project demonstrates:
 ##  Project Structure
 
 ```
+## Screenshots
+<img width="729" height="1102" alt="Снимок экрана 2026-02-08 205235" src="https://github.com/user-attachments/assets/e5e22fa5-2f20-47f4-bd49-f4cabc9a3604" />
+<img width="1527" height="1260" alt="Снимок экрана 2026-02-08 205338" src="https://github.com/user-attachments/assets/654ef245-c184-4bd9-ac31-a1e1f6269c2d" />
+<img width="1699" height="1313" alt="Снимок экрана 2026-02-08 205458" src="https://github.com/user-attachments/assets/3550fe75-7950-4e1c-96cd-0da219670c3e" />
 
 src/main/java/org/example/minionsapi
 ├── controller        # REST controllers
