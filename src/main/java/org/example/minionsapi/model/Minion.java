@@ -16,7 +16,7 @@ public class Minion {
     private String skill;
     private String type;
 
-    // ОБЯЗАТЕЛЬНО public
+
     public Minion() {}
 
     // setters
@@ -40,7 +40,7 @@ public class Minion {
         this.type = type;
     }
 
-    // getters (нужны для JSON)
+    // getters
     public Long getId() {
         return id;
     }
