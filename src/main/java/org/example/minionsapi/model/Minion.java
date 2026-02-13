@@ -16,7 +16,7 @@ public class Minion {
     private String skill;
     private String type;
 
-    // ОБЯЗАТЕЛЬНО public
+    //  public
     public Minion() {}
 
     // setters
